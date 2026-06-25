@@ -1,0 +1,16 @@
+composite_unseen,ArrangeBreadBasket
+composite_unseen,ArrangeTea
+composite_unseen,BreadSelection
+composite_unseen,CategorizeCondiments
+composite_unseen,CuttingToolSelection
+composite_unseen,GarnishPancake
+composite_unseen,GatherTableware
+composite_unseen,HeatKebabSandwich
+composite_unseen,MakeIceLemonade
+composite_unseen,PanTransfer
+composite_unseen,PortionHotDogs
+composite_unseen,RecycleBottlesByType
+composite_unseen,SeparateFreezerRack
+composite_unseen,WaffleReheat
+composite_unseen,WashFruitColander
+composite_unseen,WeighIngredients

@@ -1,0 +1,16 @@
+composite_seen,DeliverStraw
+composite_seen,GetToastedBread
+composite_seen,KettleBoiling
+composite_seen,LoadDishwasher
+composite_seen,PackIdenticalLunches
+composite_seen,PreSoakPan
+composite_seen,PrepareCoffee
+composite_seen,RinseSinkBasin
+composite_seen,ScrubCuttingBoard
+composite_seen,SearingMeat
+composite_seen,SetUpCuttingStation
+composite_seen,StackBowlsCabinet
+composite_seen,SteamInMicrowave
+composite_seen,StirVegetables
+composite_seen,StoreLeftoversInBowl
+composite_seen,WashLettuce
